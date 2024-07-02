@@ -1,6 +1,10 @@
 ## Hi there 👋
 
 Hi there! I'm Masum, a passionate and dedicated Web Developer with a knack for creating dynamic, user-friendly web applications. My journey into the world of web development started 1 years ago, and since then, I have been continually honing my skills and expanding my knowledge to stay at the forefront of this ever-evolving field.
+<p align="center">
+  <img src="https://socialify.git.ci/masum-abrar/masum-abrar/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="masum-abrar" width="700" height="300" />
+</p>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=masum-abrar&theme=dark" alt="GitHub Streak Stats">
