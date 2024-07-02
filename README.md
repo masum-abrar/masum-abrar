@@ -2,15 +2,17 @@
 
 Hi there! I'm [Your Name], a passionate and dedicated Web Developer with a knack for creating dynamic, user-friendly web applications. My journey into the world of web development started [X] years ago, and since then, I have been continually honing my skills and expanding my knowledge to stay at the forefront of this ever-evolving field.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masum-abrar&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masum-abrar&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masum-abrar&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masum-abrar&theme=dark" alt="GitHub Streak Stats">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=masum-abrar&show_icons=true&theme=dark" alt="GitHub Stats">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masum-abrar&layout=compact&theme=radical" alt="Top Languages">
+</div>
 
 <b> My Skills: </b>
 Languages & Frameworks:
@@ -24,3 +26,4 @@ Languages & Frameworks:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
 </p>
+
